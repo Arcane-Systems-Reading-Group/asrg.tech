@@ -4,7 +4,7 @@
 
 the website has only 3 criteria:
 1. clean and minimal
-2. blazignly fast
+2. blazingly fast
 3. sub-ms latency (ideally lightweight in storage)
 
 
@@ -19,7 +19,7 @@ the website has only 3 criteria:
 - Runtime Management (python, go, nodejs)
 - Cron jobs? for chad.rc
 - Container Orchastration using k8s
-- typical system administration / site-reliability engineering
+- Typical system administration / site-reliability engineering
 #### Deployment Tasks
 - Configuration Management with Ansible
 - GitOps
@@ -28,16 +28,16 @@ the website has only 3 criteria:
 - Package Management with Nix?
 - Packer x Terraform
 - Cloud Hosting / Serverless
-- Deployment canaries
+- Deployment Canaries
 - Exponential Deployments
 - IaaS/PaaS
 #### Database Tasks
 - Just PostgreSQL cluster and Redis would do
-- Hot Backups + cold backups
+- Hot Backups + Cold Backups
 - Database Migrations
 #### Networking Tasks
 - Secure SSH
-- DNS config 
+- DNS Config 
 - Reverse Proxy (Nginx Config, CDNs)
 - HTTP/1.1 vs HTTP3, SSL/TLS
 - Service Mesh
